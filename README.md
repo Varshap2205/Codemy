@@ -23,13 +23,6 @@ Codeamy is a hub for all things coding. We're passionate about technology, progr
 
 - **Skill Learning:** Explore our learning resources to boost your coding skills and stay updated with the ever-evolving tech landscape.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Varshap2205/codeamy.git
-
-
 ## Video
 https://clipchamp.com/watch/sVKPXG1iaWe
 
